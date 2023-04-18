@@ -56,7 +56,7 @@ p {
     font-size: 16px;
 }
 
-
+/*Banner image/hero. Appears to be fine as-is*/
 .hero {
     height: 800px;
     width: 100%;
@@ -65,6 +65,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*Main content area with photos*/
 
 .float-left {
     float: left;
@@ -82,8 +84,12 @@ p {
     margin-left: 20px;
 }
 
+/*Benefits vertical block. Grouped some repeating elements under .benefits header to lessen redundancy*/
+
 .benefits {
     margin-right: 20px;
+    margin-bottom: 32px;
+    color: #ffffff;
     padding: 20px;
     clear: both;
     float: right;
@@ -93,20 +99,6 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -195,6 +187,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer*/
 .footer {
     padding: 30px;
     clear: both;
