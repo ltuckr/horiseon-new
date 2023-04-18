@@ -9,15 +9,13 @@ This is a reconfiguration of some of the HTML and CSS on this site's existing so
 This is a simple web page URL. Deploying the link should allow you to arrive at the following screen: 
 
 
+
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This webpage is intended for users to learn about Horiseon's marketing and SEO benefits.  
+![horiseon ss](https://user-images.githubusercontent.com/128933116/232878646-ad859af0-cc07-400d-be3a-d0a08bce92b6.jpg)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
