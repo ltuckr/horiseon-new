@@ -22,6 +22,7 @@ This webpage is intended for users to learn about Horiseon's marketing and SEO b
 Starter code was pulled from https://github.com/coding-boot-camp
 
 Additional assistance was garnered from: 
+https://www.w3schools.com/css/css_navbar.asp
 https://getcssscan.com/blog/how-to-remove-underline-from-link-css
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 https://www.w3schools.com/howto/howto_css_hero_image.asp
