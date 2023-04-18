@@ -1,30 +1,36 @@
+/*global application*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Site background color*/
 body {
     background-color: #d9dcd6;
 }
 
-.header {
+/*Header*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+/* Main title*/
+header h1 {
     display: inline-block;
     font-size: 48px;
-}
 
-.header h1 .seo {
+ /*changed color of 'seo'*/   
+}
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+/*Navbar*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +38,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/*Banner image/hero. Appears to be fine as-is*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +65,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*Main content area with photos*/
 
 .float-left {
     float: left;
@@ -75,8 +84,12 @@ p {
     margin-left: 20px;
 }
 
+/*Benefits vertical block. Grouped some repeating elements under .benefits header to lessen redundancy*/
+
 .benefits {
     margin-right: 20px;
+    margin-bottom: 32px;
+    color: #ffffff;
     padding: 20px;
     clear: both;
     float: right;
@@ -86,20 +99,6 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -188,6 +187,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer*/
 .footer {
     padding: 30px;
     clear: both;
