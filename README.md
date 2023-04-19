@@ -13,7 +13,8 @@ This is a simple web page URL. Deploying the link should allow you to arrive at 
 ## Usage
 
 This webpage is intended for users to learn about Horiseon's marketing and SEO benefits.  
-![horiseon ss](https://user-images.githubusercontent.com/128933116/232878646-ad859af0-cc07-400d-be3a-d0a08bce92b6.jpg)
+![horiseon ss]![horiseonss](https://user-images.githubusercontent.com/128933116/233213281-935f044d-fcb5-42e2-8afe-7ae36b4efe16.png)
+
 
 
 
